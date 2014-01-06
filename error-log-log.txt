@@ -1,4 +1,0 @@
-Error when downloading game: \games\tractormania.swf
-Error when downloading game: \games\shapeswitcher.swf
-Error when downloading game: \games\turborally.swf
-Error when downloading game: \games\hallofthewild.swf
